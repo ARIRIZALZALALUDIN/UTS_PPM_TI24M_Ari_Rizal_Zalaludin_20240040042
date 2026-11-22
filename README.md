@@ -26,4 +26,4 @@ lib/
 Alur data: View -> ViewModel -> Repository -> Data, lalu ViewModel memanggil
 `notifyListeners()` sehingga View (ListenableBuilder) otomatis dibangun ulang.
 
-Nama: ...   NIM: ...   Kelas: ...
+Nama: Ari Rizal Zalaludin   NIM: 20240040042   Kelas: TI24M
